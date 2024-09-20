@@ -1,0 +1,14 @@
+D:\Development\E-CommerceApplication\bin\Debug\net8.0\E-CommerceApplication.exe
+D:\Development\E-CommerceApplication\bin\Debug\net8.0\E-CommerceApplication.deps.json
+D:\Development\E-CommerceApplication\bin\Debug\net8.0\E-CommerceApplication.runtimeconfig.json
+D:\Development\E-CommerceApplication\bin\Debug\net8.0\E-CommerceApplication.dll
+D:\Development\E-CommerceApplication\bin\Debug\net8.0\E-CommerceApplication.pdb
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.AssemblyInfoInputs.cache
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.AssemblyInfo.cs
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.csproj.CoreCompileInputs.cache
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.dll
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\refint\E-CommerceApplication.dll
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.pdb
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.genruntimeconfig.cache
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\ref\E-CommerceApplication.dll
