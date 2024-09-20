@@ -148,18 +148,16 @@ namespace E_CommerceApplication
                                     Order order = new(customer.CustomerID, product.ProductID, (int)totalAmount, DateTime.Now, requiredCount, OrderStatus.Ordered);
                                     Console.WriteLine($"Order placed successfully. Order ID: {order.OrderID}");
                                     orders.Add(order);
-                                    Console.WriteLine($"Order placed successfully. Your order will be delivered on {order.PurchaseDate.AddDays(product.ShippingDuration)}");
-
+                                    Console.WriteLine($"Your order will be delivered on {order.PurchaseDate.AddDays(product.ShippingDuration).ToString("dd/MM/yyyy")}");
                                     break;
                                 }
                                 else
                                 {
-                                    Console.WriteLine("Insufficient Wallet Balance. Please recharge your wallet and do the purchase again");
+                                    Console.WriteLine($"Insufficient Wallet Balance. Please recharge your wallet and try again\nYour Wallet Balance is {customer.WalletBalance} and the total cost of your order is {totalAmount}");
                                     WalletRecharge();
                                     Purchase();
                                 }
                             }
-                            break;
                         }
                         if (flag1)
                         {
@@ -299,7 +297,6 @@ namespace E_CommerceApplication
                 Console.WriteLine("Invalid Customer ID");
                 Login();
             }
-            SubMenu();
         }
 
         public static void DefaultData()

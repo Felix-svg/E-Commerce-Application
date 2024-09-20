@@ -12,3 +12,4 @@ D:\Development\E-CommerceApplication\obj\Debug\net8.0\refint\E-CommerceApplicati
 D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.pdb
 D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.genruntimeconfig.cache
 D:\Development\E-CommerceApplication\obj\Debug\net8.0\ref\E-CommerceApplication.dll
+D:\Development\E-CommerceApplication\obj\Debug\net8.0\E-CommerceApplication.sourcelink.json
