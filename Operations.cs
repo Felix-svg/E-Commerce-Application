@@ -156,6 +156,7 @@ namespace E_CommerceApplication
                                 {
                                     Console.WriteLine("Insufficient Wallet Balance. Please recharge your wallet and do the purchase again");
                                     WalletRecharge();
+                                    Purchase();
                                 }
                             }
                             break;
