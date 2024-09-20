@@ -303,8 +303,8 @@ namespace E_CommerceApplication
 
         public static void DefaultData()
         {
-            Customer customer1 = new("Ravi", "Chennai", "9885858588", 50000, "ravi@mail.com");
-            Customer customer2 = new("Baskaran", "Chennai", "9888475757", 60000, "baskaran@mail.com");
+            Customer customer1 = new("The Collector", "Knowhere", "9885858588", 50000, "collector@mail.com");
+            Customer customer2 = new("Gamora", "Vomir", "9888475757", 60000, "gamora@mail.com");
             customers.Add(customer1);
             customers.Add(customer2);
 
