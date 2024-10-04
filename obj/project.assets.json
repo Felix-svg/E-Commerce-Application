@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\E-CommerceApplication\\E-CommerceApplication.csproj",
+      "projectUniqueName": "D:\\GitProjects\\E-Commerce-Application\\E-CommerceApplication.csproj",
       "projectName": "E-CommerceApplication",
-      "projectPath": "D:\\Development\\E-CommerceApplication\\E-CommerceApplication.csproj",
+      "projectPath": "D:\\GitProjects\\E-Commerce-Application\\E-CommerceApplication.csproj",
       "packagesPath": "C:\\Users\\FelixOmondiOnyango\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\E-CommerceApplication\\obj\\",
+      "outputPath": "D:\\GitProjects\\E-Commerce-Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FelixOmondiOnyango\\AppData\\Roaming\\NuGet\\NuGet.Config"

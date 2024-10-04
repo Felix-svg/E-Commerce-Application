@@ -15,12 +15,12 @@ namespace E_CommerceApplication
         public string OrderID { get; set; }
         public string CustomerID { get; set; }
         public string ProductID { get; set; }
-        public int TotalPrice { get; set; }
+        public decimal TotalPrice { get; set; }
         public DateTime PurchaseDate { get; set; }
         public int Quantity { get; set; }
         public OrderStatus OrderStatus { get; set; }
 
-        public Order(string customerID, string productID, int totalPrice, DateTime purchaseDate, int quantity, OrderStatus orderStatus)
+        public Order(string customerID, string productID, decimal totalPrice, DateTime purchaseDate, int quantity, OrderStatus orderStatus)
         {
             OrderID = $"OID{s_orderID++}";
             CustomerID = customerID;
